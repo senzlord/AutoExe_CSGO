@@ -5,7 +5,8 @@ My Autoexe for Game + Latihan Smoke
 
 ###Put the file inside CSGO CFG Folder 
 
-       - example mine : D:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg (My CSGO on Another Steamlibrary HDD) 
+       (My CSGO on Another Steamlibrary HDD) 
+       - example mine : D:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
        - Default place : C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 
 ### Run Exec Inside Game 
