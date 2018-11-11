@@ -3,7 +3,7 @@ My Autoexe for Game + Latihan Smoke
 
 ## How To Use
 
-###Put the file inside CSGO CFG Folder 
+### Put the file inside CSGO CFG Folder 
 
        (My CSGO on Another Steamlibrary HDD) 
        - example mine : D:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
